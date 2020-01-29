@@ -1,0 +1,4 @@
+CREATE TABLE [dbo].[login](
+	[username] [varchar](10) NULL,
+	[password] [varchar](10) NULL
+) ON [PRIMARY]
